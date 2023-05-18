@@ -30,5 +30,9 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 /users/node_modules
+/users/dist
+/users/.env
 /api-gateway/node_modules
+/api-gateway/dist
+/api-gateway/.env
 ecosystem.config.js
